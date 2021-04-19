@@ -5,3 +5,4 @@ Live link - (https://ajs-book-club.web.app/)
 * Buy now is private so you have to login using google
 * But order page is not funtion fully
 * As an admin you can add books but somehow you cant see the books in book manager
+* Sorry for submitting it in incomplete as I want to submit assigment 11 by tomorrow.
